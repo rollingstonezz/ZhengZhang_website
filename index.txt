@@ -9,16 +9,13 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
+rollingstonezz2017@gmail.com
 
 Birthday
-June 23, 1982
+Nov 5, 1994
 
 Location
-Sacramento, California, USA
+Atlanta, GA, USA
 
 # navbar
 
